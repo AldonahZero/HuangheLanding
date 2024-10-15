@@ -32,7 +32,7 @@ export const About = () => {
                   <li><strong>库存监控</strong>：实时监控库存变化，确保您及时掌握库存动态。</li>
                   <li><strong>多交易平台扫货</strong>：自动搜索和筛选多平台上的目标商品，帮助您发现最具价值的交易机会。
                   </li>
-                  <li><strong>顶求购</strong>：一键修改求购物品，节省时间和精力。</li>
+                  <li><strong>自动求购</strong>：一键修改求购物品，节省时间和精力。</li>
                 </ul>
                 <br/>
                 2. <strong>BN平台自动更单系统</strong>：

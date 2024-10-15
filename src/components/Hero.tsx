@@ -15,13 +15,12 @@ export const Hero = () => {
                         </span>{" "}
                         黄河
                     </h1>{" "}
-                    为{" "}
+                    开发{" "}
                     <h2 className="inline">
                         <span
-                            className="inline bg-gradient-to-r from-[#61DAFB] via-[#1fc0f1] to-[#03a3d7] text-transparent bg-clip-text">CS</span>{" "}与
+                            className="inline bg-gradient-to-r from-[#61DAFB] via-[#1fc0f1] to-[#03a3d7] text-transparent bg-clip-text">软件</span>{" "}与
                         <span
-                            className="inline bg-gradient-to-r from-[#FBBF24] via-[#F59E0B] to-[#D97706] text-transparent bg-clip-text">BN</span>{" "}
-                        开发软件及脚本
+                            className="inline bg-gradient-to-r from-[#FBBF24] via-[#F59E0B] to-[#D97706] text-transparent bg-clip-text">脚本</span>{" "}
                     </h2>
 
                 </main>
